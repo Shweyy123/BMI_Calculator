@@ -16,18 +16,18 @@ To run this application locally, follow these steps:
 
 1.Clone the repository:
 
-git clone https://github.com/your-username/bmi-calculator-react.git
-cd bmi-calculator-react
+    git clone https://github.com/your-username/bmi-calculator-react.git
+    cd bmi-calculator-react
 
 2.Install dependencies:
 
-npm install
+    npm install
 
 Usage-
 
 1.Start the development server:
 
-npm start
+    npm start
 
 2.Open your browser and navigate to http://localhost:3000 to view the application.
 
@@ -35,11 +35,11 @@ npm start
 
 4.The BMI calculator will display your BMI value and categorize it into one of the following categories:
 
-      Underweight (BMI < 18.5)
+Underweight (BMI < 18.5)
       
-      Normal Weight (BMI between 18.5 and 25)
+Normal Weight (BMI between 18.5 and 25)
       
-      Overweight (BMI between 25 and 29.9)
+Overweight (BMI between 25 and 29.9)
       
-      Obese (BMI > 30)
+ Obese (BMI > 30)
 
